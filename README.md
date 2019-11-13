@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Edward Ly
+A simple demo, by Edward Ly, for DMIT 2018. 
